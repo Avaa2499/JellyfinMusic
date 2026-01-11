@@ -21,9 +21,13 @@
   📱 Controls
 
   • Play/Pause: Tap miniplayer controls
+  
   • Next/Previous: Skip buttons
+  
   • Stop: Swipe down on miniplayer
+  
   • Playlists: Long-press for options menu
+  
 
   🎛 Settings
 
