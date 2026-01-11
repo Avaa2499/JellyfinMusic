@@ -32,9 +32,13 @@
   🎛 Settings
 
   • ReplayGain normalization
+  
   • Offline mode toggle
+  
   • Battery saver mode
+  
   • Debug logging
+  
   • In app updater
   
 
