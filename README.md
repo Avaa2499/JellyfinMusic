@@ -45,3 +45,8 @@
 
 
   Requirements: Android 8.0+, Jellyfin server already setup, ~20MB storage  
+
+
+
+  # ANY FEATURE REQUESTS/BUGS, OPEN A NEW ISSUE.
+  Please score them out of 10 on how urgent they are, and i will fix them from highest priority to lowest. (1 being a small minor bug, 10 being functionality breaking.)
