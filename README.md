@@ -40,8 +40,6 @@
   • Debug logging
   
   • In app updater
-  
-
 
 
   Requirements: Android 8.0+, Jellyfin server already setup, ~20MB storage  
