@@ -4,18 +4,18 @@
 
   ✨ Key Features
 
-  • FLAC playback with gapless transitions
-  • Offline downloads with smart caching
+  • FLAC playback with gapless transitions (to do)
+  • Offline downloads with smart caching (to do)
   • Swipe miniplayer down to stop music
-  • Enhanced playlists (create, rename, delete)
-  • Smart search across titles/artists/albums
+  • Enhanced playlists (create, rename, delete) (to do)
+  • Smart search across titles/artists/albums (to do)
   • Pull-to-refresh Jellyfin sync
 
   🔧 Quick Setup
 
   1. Download latest APK from releases
   2. Enter Jellyfin server URL, username, password
-  3. Sync playlists & download music for offline
+  3. Sync playlists & download music for offline (to do)
   4. Swipe down on miniplayer to stop playback
 
   📱 Controls
@@ -50,3 +50,7 @@
 
   # ANY FEATURE REQUESTS/BUGS, OPEN A NEW ISSUE.
   Please score them out of 10 on how urgent they are, and i will fix them from highest priority to lowest. (1 being a small minor bug, 10 being functionality breaking.)
+
+
+
+This is a passion project. Some stuff may be dysfunctional, partially implemented, or just a full placeholder. I would like you to open an issue if you find any bugs or feature requests, however do not pester me.
